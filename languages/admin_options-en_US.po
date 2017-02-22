@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: admin_options\n"
+"POT-Creation-Date: 2017-02-21 17:18+0100\n"
+"PO-Revision-Date: 2017-02-21 17:18+0100\n"
+"Last-Translator: \n"
+"Language-Team: Florian Rehder <code@florianrehder.de>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .sass_cache\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: bower_components\n"
+
+#: includes/admin-options-page-setup.php:21
+msgctxt "Admin Options"
+msgid "Custom Admin Options"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:22
+msgctxt "Admin Options"
+msgid "Admin Test"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:25
+msgctxt "Admin Options"
+msgid "Save all settings"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:26
+msgctxt "Admin Options"
+msgid "Settings saved."
+msgstr ""
+
+#: includes/admin-options-page-setup.php:29
+msgctxt "Admin Options"
+msgid "First Section Headline"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:33
+msgctxt "Admin Options"
+msgid "Name"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:36
+msgctxt "Admin Options"
+msgid "Description of the text field"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:43
+#: includes/admin-options-page-setup.php:48
+msgctxt "Admin Options"
+msgid "Choose a number"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:46
+msgctxt "Admin Options"
+msgid "Description of the dropdown"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:61
+msgctxt "Admin Options"
+msgid "Activate"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:64
+msgctxt "Admin Options"
+msgid "Label of the checkbox"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:65
+msgctxt "Admin Options"
+msgid "Description of the checkbox"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:71
+msgctxt "Admin Options"
+msgid "Sex"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:74
+msgctxt "Admin Options"
+msgid "Description of the radio box"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:76
+msgctxt "Admin Options"
+msgid "Male"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:77
+msgctxt "Admin Options"
+msgid "Female"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:78
+msgctxt "Admin Options"
+msgid "Other"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:86
+msgctxt "Admin Options"
+msgid "Second Section Headline"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:90
+msgctxt "Admin Options"
+msgid "Dropdown test"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:93
+msgctxt "Admin Options"
+msgid "Dropdown description"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:95
+msgctxt "Admin Options"
+msgid "Choose wisely"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:105
+msgctxt "Admin Options"
+msgid "Biography"
+msgstr ""
+
+#: includes/admin-options-page-setup.php:108
+msgctxt "Admin Options"
+msgid "Textarea description"
+msgstr ""

@@ -1,0 +1,1902 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: admin_options\n"
+"POT-Creation-Date: 2017-02-21 17:18+0100\n"
+"PO-Revision-Date: 2017-02-21 17:18+0100\n"
+"Last-Translator: \n"
+"Language-Team: Florian Rehder <code@florianrehder.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .sass_cache\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: bower_components\n"
+
+#: includes/admin-options-page-setup.php:21
+msgctxt "Admin Options"
+msgid "Custom Admin Options"
+msgstr "Benutzerdefinierte Admin Optionen"
+
+#: includes/admin-options-page-setup.php:22
+msgctxt "Admin Options"
+msgid "Admin Test"
+msgstr "Admin Test"
+
+#: includes/admin-options-page-setup.php:25
+msgctxt "Admin Options"
+msgid "Save all settings"
+msgstr "Alle Einstellungen speichern"
+
+#: includes/admin-options-page-setup.php:26
+msgctxt "Admin Options"
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+#: includes/admin-options-page-setup.php:29
+msgctxt "Admin Options"
+msgid "First Section Headline"
+msgstr "Erste Section Headline"
+
+#: includes/admin-options-page-setup.php:33
+msgctxt "Admin Options"
+msgid "Name"
+msgstr "Name"
+
+#: includes/admin-options-page-setup.php:36
+msgctxt "Admin Options"
+msgid "Description of the text field"
+msgstr "Eine Beschreibung für das Text Feld"
+
+#: includes/admin-options-page-setup.php:43
+#: includes/admin-options-page-setup.php:48
+msgctxt "Admin Options"
+msgid "Choose a number"
+msgstr "Eine Nummer auswählen"
+
+#: includes/admin-options-page-setup.php:46
+msgctxt "Admin Options"
+msgid "Description of the dropdown"
+msgstr "Eine Beschreibung für das Dropdown Element"
+
+#: includes/admin-options-page-setup.php:61
+msgctxt "Admin Options"
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: includes/admin-options-page-setup.php:64
+msgctxt "Admin Options"
+msgid "Label of the checkbox"
+msgstr "Label der Checkbox"
+
+#: includes/admin-options-page-setup.php:65
+msgctxt "Admin Options"
+msgid "Description of the checkbox"
+msgstr "Eine Beschreibung für die Checkbox"
+
+#: includes/admin-options-page-setup.php:71
+msgctxt "Admin Options"
+msgid "Sex"
+msgstr "Geschlecht"
+
+#: includes/admin-options-page-setup.php:74
+msgctxt "Admin Options"
+msgid "Description of the radio box"
+msgstr "Eine Beschreibung für die Radio Box"
+
+#: includes/admin-options-page-setup.php:76
+msgctxt "Admin Options"
+msgid "Male"
+msgstr "Männlich"
+
+#: includes/admin-options-page-setup.php:77
+msgctxt "Admin Options"
+msgid "Female"
+msgstr "Weiblich"
+
+#: includes/admin-options-page-setup.php:78
+msgctxt "Admin Options"
+msgid "Other"
+msgstr "Etwas anderes"
+
+#: includes/admin-options-page-setup.php:86
+msgctxt "Admin Options"
+msgid "Second Section Headline"
+msgstr "Headline der zweiten Section"
+
+#: includes/admin-options-page-setup.php:90
+msgctxt "Admin Options"
+msgid "Dropdown test"
+msgstr "Dropdown Test"
+
+#: includes/admin-options-page-setup.php:93
+msgctxt "Admin Options"
+msgid "Dropdown description"
+msgstr "Dropdown Beschreibung"
+
+#: includes/admin-options-page-setup.php:95
+msgctxt "Admin Options"
+msgid "Choose wisely"
+msgstr "Auswählen"
+
+#: includes/admin-options-page-setup.php:105
+msgctxt "Admin Options"
+msgid "Biography"
+msgstr "Biografie"
+
+#: includes/admin-options-page-setup.php:108
+msgctxt "Admin Options"
+msgid "Textarea description"
+msgstr "Eine Beschreibung für die Textarea"
+
+#~ msgctxt "Plugin settings default values"
+#~ msgid "What is your gender?"
+#~ msgstr "Was ist Ihr Geschlecht?"
+
+#~ msgctxt "Plugin settings default values"
+#~ msgid "Female"
+#~ msgstr "Weiblich"
+
+#~ msgctxt "Plugin settings default values"
+#~ msgid "Male"
+#~ msgstr "Männlich"
+
+#~ msgctxt "Plugin settings page title"
+#~ msgid "JTSV Poll Settings"
+#~ msgstr "JTSV Poll Einstellungen"
+
+#~ msgctxt "Plugin settings menu title"
+#~ msgid "JTSV Poll"
+#~ msgstr "JTSV Poll"
+
+#~ msgctxt "Save settings button"
+#~ msgid "Save all settings"
+#~ msgstr "Alle Einstellungen speichern"
+
+#~ msgctxt "Settings saved notification"
+#~ msgid "Settings saved."
+#~ msgstr "Einstellungen gespeichert."
+
+#~ msgctxt "Settings section headline"
+#~ msgid "Poll Defaults"
+#~ msgstr "Umfrage-Standardwerte"
+
+#~ msgctxt "Settings field title"
+#~ msgid "Default Question"
+#~ msgstr "Standardfrage"
+
+#~ msgctxt "Settings input description"
+#~ msgid "Enter the default question every poll should include."
+#~ msgstr "Standardfrage die an jede Umfrage angehängt wird."
+
+#~ msgctxt "Settings field title"
+#~ msgid "Default Answer 1"
+#~ msgstr "Standardantwort 1"
+
+#~ msgctxt "Settings input description"
+#~ msgid "Enter the first answer to the default question."
+#~ msgstr "Die erste Antwort zur Standardfrage."
+
+#~ msgctxt "Settings field title"
+#~ msgid "Default Answer 2"
+#~ msgstr "Standardantwort 2"
+
+#~ msgctxt "Settings input description"
+#~ msgid "Enter the second answer to the default question."
+#~ msgstr "Die zweite Antwort zur Standardfrage."
+
+#~ msgctxt "Poll Frontend"
+#~ msgid "An error occurred! Please try again later!"
+#~ msgstr "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut."
+
+#~ msgctxt "Poll Form"
+#~ msgid "Answer"
+#~ msgstr "Antwort"
+
+#~ msgctxt "Poll Form"
+#~ msgid "Remove Field"
+#~ msgstr "Feld entfernen"
+
+#~ msgctxt "Poll Form"
+#~ msgid "Update"
+#~ msgstr "Aktualisieren"
+
+#~ msgctxt "Poll Form"
+#~ msgid "Data was updated!"
+#~ msgstr "Daten wurden aktualisiert!"
+
+#~ msgctxt "Poll Form"
+#~ msgid "Answer Field was removed!"
+#~ msgstr "Antwort-Feld wurde entfernt!"
+
+#~ msgctxt "Poll Form"
+#~ msgid "Question"
+#~ msgstr "Frage"
+
+#~ msgctxt "Poll Form"
+#~ msgid "Add Answer"
+#~ msgstr "Weitere Antwort hinzufügen"
+
+#~ msgctxt "Poll Form"
+#~ msgid "Add default question"
+#~ msgstr "Standard-Frage hinzufügen"
+
+#~ msgctxt "Poll Form"
+#~ msgid "The default question is predefined and will be added to every poll automatically. It will be visible to the user after she finished the question defined above."
+#~ msgstr "Die Standard-Frage ist vordefiniert und wird jeder Umfrage automatisch angehängt. Sie erscheint nachdem der Benutzer die oben definierte Frage beantwortet hat."
+
+#~ msgctxt "Poll Form"
+#~ msgid "Current Default Question"
+#~ msgstr "Standard-Frage"
+
+#~ msgctxt "Poll Form"
+#~ msgid "Answers"
+#~ msgstr "Antworten"
+
+#~ msgctxt "Poll Form"
+#~ msgid "Show Results to User"
+#~ msgstr "Dem Benutzer die Umfrageergebnisse nach der Abstimmung anzeigen"
+
+#~ msgctxt "Poll Form"
+#~ msgid "Show the results to the User after she finished the poll."
+#~ msgstr "Der Benutzer sieht die Umfrageergebnisse nachdem er die Umfrage vollständig ausgefüllt hat."
+
+#~ msgctxt "Poll Form"
+#~ msgid "Expiration Date"
+#~ msgstr "Ablaufdatum"
+
+#~ msgctxt "Poll Form"
+#~ msgid "For example"
+#~ msgstr "Zum Beispiel"
+
+#~ msgctxt "Poll Form"
+#~ msgid "Please choose the date when the poll will be finished."
+#~ msgstr "Das Datum an dem die Abstimmung geschlossen wird."
+
+#~ msgctxt "Poll Form"
+#~ msgid "Save"
+#~ msgstr "Speichern"
+
+#~ msgctxt "Poll Frontend"
+#~ msgid "Thank you for your time!"
+#~ msgstr "Danke für Ihre Teilnahme an unserer Umfrage!"
+
+#~ msgctxt "Poll Frontend"
+#~ msgid "Vote"
+#~ msgstr "Stimme"
+
+#~ msgctxt "Poll Frontend"
+#~ msgid "Votes"
+#~ msgstr "Stimmen"
+
+#~ msgctxt "Poll Frontend"
+#~ msgid "Submit"
+#~ msgstr "Absenden"
+
+#~ msgctxt "Poll Form"
+#~ msgid "Create Poll"
+#~ msgstr "Umfrage erstellen"
+
+#~ msgctxt "Poll Form"
+#~ msgid "or"
+#~ msgstr "oder"
+
+#~ msgctxt "404"
+#~ msgid "Not found"
+#~ msgstr "Nicht gefunden"
+
+#~ msgctxt "404"
+#~ msgid "The %s most recent article"
+#~ msgstr "Die %s neuesten Artikel"
+
+#~ msgctxt "404"
+#~ msgid "More"
+#~ msgstr "Weiteres"
+
+#~ msgctxt "Archive page"
+#~ msgid "Category Archive Page"
+#~ msgstr "Kategorie-Archiv"
+
+#~ msgctxt "Archive page"
+#~ msgid "Tag Archive Page"
+#~ msgstr "Schlagwort-Archiv"
+
+#~ msgctxt "Archive page"
+#~ msgid "Date Archive Page"
+#~ msgstr "Datumsbasiertes Archiv"
+
+#~ msgctxt "Archive page"
+#~ msgid "Posts by"
+#~ msgstr "Beiträge von"
+
+#~ msgctxt "Comment Section"
+#~ msgid "This post is password protected. Enter the password to view comments."
+#~ msgstr "Dieser Beitrag ist mit einem Passwort geschützt. Bitte gib das Passwort ein um die Kommentare zu lesen."
+
+#~ msgctxt "Comment Section"
+#~ msgid "Comments"
+#~ msgstr "Kommentare"
+
+#~ msgctxt "Comment Section"
+#~ msgid "Your comment is awaiting approval"
+#~ msgstr "Der Kommentar wartet auf Freischaltung"
+
+#~ msgctxt "Comment Section"
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s um %2$s Uhr"
+
+#~ msgctxt "Comment Section"
+#~ msgid "No comments yet."
+#~ msgstr "Keine Kommentare bis jetzt."
+
+#~ msgctxt "Comment Section"
+#~ msgid "You must be logged in to post a comment."
+#~ msgstr "Du musst angemeldet sein, um einen Kommentar zu verfassen."
+
+#~ msgctxt "Comment Section"
+#~ msgid "Log in"
+#~ msgstr "Anmelden"
+
+#~ msgctxt "Comment Section"
+#~ msgid "Join discussion"
+#~ msgstr "Kommentar verfassen"
+
+#~ msgctxt "Comment Section"
+#~ msgid "Your comment"
+#~ msgstr "Kommentar"
+
+#~ msgctxt "Comment Section"
+#~ msgid "Logged in as %s"
+#~ msgstr "Angemeldet als %s"
+
+#~ msgctxt "Comment Section"
+#~ msgid "Log out of this account"
+#~ msgstr "Diesen Account abmelden"
+
+#~ msgctxt "Comment Section"
+#~ msgid "Log out"
+#~ msgstr "Abmelden"
+
+#~ msgctxt "Comment Section"
+#~ msgid "Name"
+#~ msgstr "Name"
+
+#~ msgctxt "Comment Section"
+#~ msgid "required"
+#~ msgstr "erforderlich"
+
+#~ msgctxt "Comment Section"
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgctxt "Comment Section"
+#~ msgid "not public"
+#~ msgstr "nicht öffentlich"
+
+#~ msgctxt "Comment Section"
+#~ msgid "Website"
+#~ msgstr "Webseite"
+
+#~ msgctxt "Comment Section"
+#~ msgid "Submit Comment"
+#~ msgstr "Kommentar absenden"
+
+#~ msgctxt "Comment Section"
+#~ msgid "The comments are closed."
+#~ msgstr "Die Kommentare sind geschlossen."
+
+#~ msgctxt "Register menu"
+#~ msgid "Header Top Menu (Left)"
+#~ msgstr "Header Top Navigation (Links)"
+
+#~ msgctxt "Register menu"
+#~ msgid "Header Top Menu (Right)"
+#~ msgstr "Header Top Navigation (Rechts)"
+
+#~ msgctxt "Register menu"
+#~ msgid "Main Menu"
+#~ msgstr "Hauptnavigation"
+
+#~ msgctxt "Register menu"
+#~ msgid "Footer Menu"
+#~ msgstr "Footer Navigation"
+
+#~ msgctxt "Register sidebar name"
+#~ msgid "Main Sidebar"
+#~ msgstr "Hauptseitenleiste"
+
+#~ msgctxt "Register sidebar description"
+#~ msgid "Main Sidebar next to most posts and pages."
+#~ msgstr "Hauptseitenleiste neben dem Post und Page Content."
+
+#~ msgctxt "Register sidebar name"
+#~ msgid "Post Block Sidebar"
+#~ msgstr "Post Block Beiträge"
+
+#~ msgctxt "Register sidebar description"
+#~ msgid "Main Sidebar next to Post Grid Module content"
+#~ msgstr "Seitenleiste neben Post Grid Modul"
+
+#~ msgctxt "Register sidebar name"
+#~ msgid "Single Article Body Sidebar"
+#~ msgstr "Single Artikel Body Seitenleiste"
+
+#~ msgctxt "Register sidebar description"
+#~ msgid "Main Sidebar next to most single post content."
+#~ msgstr "Seitenleisten für die Einzelansicht der Artikel."
+
+#~ msgctxt "Register sidebar name"
+#~ msgid "Footer Widget Area %s (1/2 Left)"
+#~ msgstr "Footer Widget Bereich %s (1/2 links)"
+
+#~ msgctxt "Register sidebar description"
+#~ msgid "Appears at the bottom of the site on the left."
+#~ msgstr "Erscheint am Ende der Seite linksbündig."
+
+#~ msgctxt "Register sidebar name"
+#~ msgid "Footer Widget Area %s (1/2 Right)"
+#~ msgstr "Footer Widget Bereich %s (1/2 Rechts)"
+
+#~ msgctxt "Register sidebar description"
+#~ msgid "Appears at the bottom of the site on the right."
+#~ msgstr "Erscheint am Ende der Seite rechtsbündig."
+
+#~ msgctxt "Register sidebar name"
+#~ msgid "Footer Widget Area %s (1/3 Left)"
+#~ msgstr "Footer Widget Bereich %s (1/3 links)"
+
+#~ msgctxt "Register sidebar name"
+#~ msgid "Footer Widget Area %s (1/3 Center)"
+#~ msgstr "Footer Widget Bereich %s (1/3 zentriert)"
+
+#~ msgctxt "Register sidebar description"
+#~ msgid "Appears at the bottom of the site in the middle."
+#~ msgstr "Erscheint am Ende der Seite zentriert."
+
+#~ msgctxt "Register sidebar name"
+#~ msgid "Footer Widget Area %s (1/3 Right)"
+#~ msgstr "Footer Widget Bereich %s (1/3 rechts)"
+
+#~ msgctxt "Register sidebar name"
+#~ msgid "Footer Widget Area %s (2/3 Left)"
+#~ msgstr "Footer Widget Bereich %s (2/3 links)"
+
+#~ msgctxt "Register sidebar name"
+#~ msgid "Footer Widget Area %s (2/3 Right)"
+#~ msgstr "Footer Widget Bereich %s (2/3 rechts)"
+
+#~ msgctxt "Blog Page"
+#~ msgid "Read now"
+#~ msgstr "Jetzt lesen"
+
+#~ msgctxt "Index loop"
+#~ msgid "No data found to display."
+#~ msgstr "Nichts gefunden."
+
+#~ msgctxt "Editors Page"
+#~ msgid "No authors found to display."
+#~ msgstr "Keine Redakteure gefunden."
+
+#~ msgctxt "Search results page"
+#~ msgid "Read now"
+#~ msgstr "Jetzt lesen"
+
+#~ msgctxt "Headline annotation for Advertorials"
+#~ msgid "Advertorial"
+#~ msgstr "Advertorial"
+
+#~ msgctxt "Content meta data"
+#~ msgid "Category"
+#~ msgstr "Kategorie"
+
+#~ msgctxt "Content meta data"
+#~ msgid "Tags"
+#~ msgstr "Schlagwörter"
+
+#~ msgctxt "Editors Page"
+#~ msgid "Posts by %s"
+#~ msgstr "Beiträge von %s"
+
+#~ msgctxt "Content related posts"
+#~ msgid "Read next"
+#~ msgstr "Lesen Sie jetzt"
+
+#~ msgctxt "Content post/page author"
+#~ msgid "Posts by %s"
+#~ msgstr "Beitrag von %s"
+
+#~ msgctxt "Content creation time: 29. February 2016 at 16:04"
+#~ msgid "%s at %s"
+#~ msgstr "%s um %s Uhr"
+
+#~ msgctxt "Content creation time: 29. February 2016"
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgctxt "Header Search Bar"
+#~ msgid "Close Search bar"
+#~ msgstr "Suche schliessen"
+
+#~ msgctxt "Search results page"
+#~ msgid "%1$s Search Results for %2$s"
+#~ msgstr "%1$s Suchergebnisse für %2$s"
+
+#~ msgctxt "Search form placeholder"
+#~ msgid "Search"
+#~ msgstr "Suche"
+
+#~ msgctxt "Search form title"
+#~ msgid "Search for"
+#~ msgstr "Suche nach"
+
+#~ msgctxt "Theme settings page title"
+#~ msgid "JTSV Theme Settings"
+#~ msgstr "JTSV Theme Einstellungen"
+
+#~ msgctxt "Theme settings menu title"
+#~ msgid "JTSV Theme"
+#~ msgstr "JTSV Theme"
+
+#~ msgctxt "Settings section headline"
+#~ msgid "Header"
+#~ msgstr "Header"
+
+#~ msgctxt "Settings field title"
+#~ msgid "Page Header Layout"
+#~ msgstr "Layout des Seitenheader"
+
+#~ msgctxt "Settings dropdown option title"
+#~ msgid "Classic (Default)"
+#~ msgstr "Classic (Standard)"
+
+#~ msgctxt "Settings dropdown option title"
+#~ msgid "Combined"
+#~ msgstr "Kombiniert"
+
+#~ msgctxt "Settings field title"
+#~ msgid "Top Navigation"
+#~ msgstr "Header Top Navigation"
+
+#~ msgctxt "Settings checkbox label"
+#~ msgid "Show Header Top Navigation"
+#~ msgstr "Header Top Navigation anzeigen"
+
+#~ msgctxt "Settings checkbox description"
+#~ msgid "Show header top menu navigation bar."
+#~ msgstr "Zeige die Top Navigation über dem Header der Website."
+
+#~ msgctxt "Settings field title"
+#~ msgid "Searchbar"
+#~ msgstr "Suchfeld"
+
+#~ msgctxt "Settings checkbox label"
+#~ msgid "Show Searchbar"
+#~ msgstr "Suchfeld anzeigen"
+
+#~ msgctxt "Settings checkbox description"
+#~ msgid "Show searchbar in header top menu."
+#~ msgstr "Zeige das Suchfeld in der Header Top Navigation."
+
+#~ msgctxt "Settings section headline"
+#~ msgid "Social Network Profiles"
+#~ msgstr "Social Network Profile"
+
+#~ msgctxt "Settings field title"
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgctxt "Settings input description"
+#~ msgid "URL to your Twitter profile."
+#~ msgstr "URL zu deinem Twitter Profil."
+
+#~ msgctxt "Settings field title"
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgctxt "Settings input description"
+#~ msgid "URL to your Facebook profile."
+#~ msgstr "URL zu deinem Facebook Profil."
+
+#~ msgctxt "Settings field title"
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgctxt "Settings input description"
+#~ msgid "URL to your Google+ profile."
+#~ msgstr "URL zu deinem Google+ Profil."
+
+#~ msgctxt "Settings section headline"
+#~ msgid "Content Section"
+#~ msgstr "Content Sektion"
+
+#~ msgctxt "Settings field title"
+#~ msgid "Featured Image Position"
+#~ msgstr "Position des Beitragbilds"
+
+#~ msgctxt "Settings checkbox description"
+#~ msgid "Position of the featured image relative to main headline in post or page."
+#~ msgstr "Position des Beitragsbilds bezogen auf die Artikel- bzw. Seiten-Headline"
+
+#~ msgctxt "Settings dropdown option title"
+#~ msgid "Featured Image is above the headline"
+#~ msgstr "Das Beitragsbild erscheint über der Headline"
+
+#~ msgctxt "Settings dropdown option title"
+#~ msgid "Featured Image is below the headline"
+#~ msgstr "Das Beitragsbild erscheint unter der Headline"
+
+#~ msgctxt "Settings field title"
+#~ msgid "Content Meta Info"
+#~ msgstr "Content Meta Info"
+
+#~ msgctxt "Settings checkbox label"
+#~ msgid "Show Content Meta"
+#~ msgstr "Content Meta Info anzeigen"
+
+#~ msgctxt "Settings checkbox description"
+#~ msgid "Show content meta info below headline of posts and pages."
+#~ msgstr "Content Meta Infos unter der Headline anzeigen"
+
+#~ msgctxt "Settings field title"
+#~ msgid "Author Info Box"
+#~ msgstr "Autorenbox"
+
+#~ msgctxt "Settings checkbox label"
+#~ msgid "Show Author Info Box"
+#~ msgstr "Autorenbox anzeigen"
+
+#~ msgctxt "Settings checkbox description"
+#~ msgid "Show author info below content of posts and pages."
+#~ msgstr "Autorenbox unter dem Content anzeigen"
+
+#~ msgctxt "Settings field title"
+#~ msgid "Related Content"
+#~ msgstr "Related Content"
+
+#~ msgctxt "Settings checkbox label"
+#~ msgid "Show Related Content"
+#~ msgstr "Related Content anzeigen"
+
+#~ msgctxt "Settings checkbox description"
+#~ msgid "Show related content below content of posts and pages."
+#~ msgstr "Related Content unter dem Content anzeigen"
+
+#~ msgctxt "Custom user contactmethod"
+#~ msgid "Facebook Profile URL"
+#~ msgstr "URL zu deinem Facebook Profil."
+
+#~ msgctxt "Custom user contactmethod"
+#~ msgid "Twitter Profile URL"
+#~ msgstr "URL zu deinem Twitter Profil."
+
+#~ msgctxt "Custom user contactmethod"
+#~ msgid "Google+ Profile URL"
+#~ msgstr "URL zu deinem Google+ Profil."
+
+#~ msgctxt "Extra Profile Info"
+#~ msgid "Editors Page"
+#~ msgstr "Seite der Redaktion"
+
+#~ msgctxt "Extra Profile Info"
+#~ msgid "Visibility on Editors Page"
+#~ msgstr "Sichtbarkeit auf Redakteure Seite"
+
+#~ msgctxt "Extra Profile Info"
+#~ msgid "Show on Editors Page"
+#~ msgstr "Auf der Seite der Redaktion anzeigen"
+
+#~ msgctxt "Extra Profile Info"
+#~ msgid "Sort order"
+#~ msgstr "Sortierung"
+
+#~ msgctxt "Extra Profile Info"
+#~ msgid "Please enter a number which defines the sort position on the Editors Page. (Smaller numbers tend to be further at the top on the Editors Page.)"
+#~ msgstr "Bitte eine Zahl eintragen, die die Sortierung der User auf der Redaktionsseite definiert.<br>(Je kleiner die Zahl, desto weiter oben steht der Account auf der Redaktionsseite)"
+
+#~ msgctxt "Extra Profile Info"
+#~ msgid "Job Position"
+#~ msgstr "Berufsbezeichnung"
+
+#~ msgctxt "Extra Profile Info"
+#~ msgid "Please enter your profession. (For example Editor in Chief)"
+#~ msgstr "Bitte trage deine Position in der Redaktion ein (z.B. Chefredakteur)."
+
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#~ msgid "Embedded Video"
+#~ msgstr "Eingebettetes Video"
+
+#~ msgid "Please copy the Video-URL (for example https://www.youtube.com/watch?v=iWHXZl_wmKU) from the browser address bar and paste it in the search field below. The Video will appear under the search field. This does work with Youtube and Vimeo URLs."
+#~ msgstr "Bitte kopiere die Videoadresse (zum Beispiel https://www.youtube.com/watch?v=iWHXZl_wmKU) von der Browser-Addressleiste and füge sie in das Suchfeld unterhalb ein. Das Video erscheint dann unter dem Suchfeld. Das funktioniert mit Youtube und Vimeo Videoadressen."
+
+#~ msgid "Gallery"
+#~ msgstr "Bildergalerie"
+
+#~ msgid "Images"
+#~ msgstr "Bilder"
+
+#~ msgid "Related Post"
+#~ msgstr "Ähnlicher Beitrag"
+
+#~ msgid "Choose up to two related posts"
+#~ msgstr "Füge bis zu 2 themenverwandte Beiträge hinzu"
+
+#~ msgid "Page Builder"
+#~ msgstr "Page Builder"
+
+#~ msgid "Blocks"
+#~ msgstr "Blöcke"
+
+#~ msgid "Add Block"
+#~ msgstr "Block hinzufügen"
+
+#~ msgid "Headline"
+#~ msgstr "Überschrift"
+
+#~ msgid "Kicker"
+#~ msgstr "Dachzeile / Spitzmarke"
+
+#~ msgid "A short, catchy word or phrase above the major headline."
+#~ msgstr "Ein kurzes Stichwort über der Überschrift um die Seite/den Artikel grob thematisch einzuordnen."
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "The major headline."
+#~ msgstr "Die Hauptüberschrift."
+
+#~ msgid "Headline is H1"
+#~ msgstr "Überschrift ist H1"
+
+#~ msgid "By default the headline is H2."
+#~ msgstr "Standardmäßig ist die Überschrift eine H2."
+
+#~ msgid "Headline Style"
+#~ msgstr "Überschriftenstil"
+
+#~ msgid "Headline without Teaser Image"
+#~ msgstr "Überschrift ohne Aufmacherbild"
+
+#~ msgid "Headline with Teaser Image"
+#~ msgstr "Überschrift mit Aufmacherbild"
+
+#~ msgid "Teaser Image"
+#~ msgstr "Aufmacherbild"
+
+#~ msgid "A teaser image for the page / post to emphasize the headline."
+#~ msgstr "Ein Aufmacherbild für die Seite/den Artikel um die Überschrift zu betonen. Das Vorschaubild zeigt wie das Bild im Frontend beschnitten wird. Die Größe lässt sich über die Höhe des Aufmacherbildes verändern."
+
+#~ msgid "Teaser Image Height"
+#~ msgstr "Höhe des Aufmacherbildes"
+
+#~ msgid "Height of the Teaser image in px.<br>Default is <code>400</code>, min <code>300</code>, max <code>500</code>"
+#~ msgstr "Höhe des Aufmacherbildes in px.<br>Standard: <code>320</code>, min <code>240</code>, max <code>600</code>"
+
+#~ msgid "Horizontal Text Alignment"
+#~ msgstr "Horizontale Ausrichtung der Überschrift"
+
+#~ msgid "Headline on Teaser Image."
+#~ msgstr "Überschrift auf dem Aufmacherbild."
+
+#~ msgid "Left (Default)"
+#~ msgstr "Linksbündig (Standard)"
+
+#~ msgid "Center"
+#~ msgstr "Zentriert"
+
+#~ msgid "Right"
+#~ msgstr "Rechtsbündig"
+
+#~ msgid "Vertical Text Alignment"
+#~ msgstr "Vertikale Ausrichtung der Überschrift"
+
+#~ msgid "Top"
+#~ msgstr "Oben"
+
+#~ msgid "Middle"
+#~ msgstr "Mittig"
+
+#~ msgid "Bottom (Default)"
+#~ msgstr "Unten (Standard)"
+
+#~ msgid "Show Teaser Image only"
+#~ msgstr "Nur das Aufmacherbild anzeigen"
+
+#~ msgid "Hide headline and kicker."
+#~ msgstr "Dachzeile und Überschrift verstecken."
+
+#~ msgid "Invert Headline Text Color"
+#~ msgstr "Textfarbe der Überschrift invertieren"
+
+#~ msgid "Invert the color of the headline to improve readability on certain images."
+#~ msgstr "Die Textfarbe der Überschrift invertieren um die Lesbarkeit auf bestimmten Aufmacherbildern zu verbessern."
+
+#~ msgid "Content-Editor"
+#~ msgstr "Content-Editor"
+
+#~ msgid "Columns"
+#~ msgstr "Spalten"
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Hero Post Module"
+#~ msgstr "Hero Beitragsmodul"
+
+#~ msgid "Post Source"
+#~ msgstr "Beitragsquelle"
+
+#~ msgid "Latest Posts"
+#~ msgstr "Neuste Beiträge"
+
+#~ msgid "Sticky Posts only"
+#~ msgstr "Sticky Beiträge"
+
+#~ msgid "Latest Posts by Post Format"
+#~ msgstr "Neueste Beiträge dieses Beitragstypen"
+
+#~ msgid "Post Formats"
+#~ msgstr "Beitragsformate"
+
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#~ msgid "Image"
+#~ msgstr "Einzelbild"
+
+#~ msgid "Category"
+#~ msgstr "Kategorie"
+
+#~ msgid "Affects every Post Source."
+#~ msgstr "Betrifft alle Beitragsquellen."
+
+#~ msgid "Tags"
+#~ msgstr "Schlagwörter"
+
+#~ msgid "Number of Posts"
+#~ msgstr "Anzahl der Beiträge"
+
+#~ msgid "Default is <code>1</code>, max <code>4</code>"
+#~ msgstr "Standardwert: <code>1</code>, max <code>4</code>"
+
+#~ msgid "Offset"
+#~ msgstr "Offset"
+
+#~ msgid "Offset for Number of posts"
+#~ msgstr "Offset für Anzahl der Beiträge"
+
+#~ msgid "Height"
+#~ msgstr "Höhe"
+
+#~ msgid "Height of the Block in px.<br>Default is <code>510</code>, min <code>360</code>, max <code>600</code>"
+#~ msgstr "Höhe des Blocks in px.<br>Standardwert: <code>510</code>, min <code>360</code>, max <code>600</code>"
+
+#~ msgid "Global Exclude"
+#~ msgstr "Global exkludieren"
+
+#~ msgid "Exclude hero module posts from all other blocks on this page."
+#~ msgstr "Hero Modul Beiträge von allen anderen Blöcken auf dieser Seite exkludieren."
+
+#~ msgid "Scope"
+#~ msgstr "Scope"
+
+#~ msgid "Where should this block appear?"
+#~ msgstr "Wo soll dieser Block angezeigt werden?"
+
+#~ msgid "Everywhere (Default)"
+#~ msgstr "Überall (Standard)"
+
+#~ msgid "Only on Desktop"
+#~ msgstr "Nur auf Desktop"
+
+#~ msgid "Only on Mobile"
+#~ msgstr "Nur auf Mobil"
+
+#~ msgid "Post Grid Module"
+#~ msgstr "Post Grid Modul"
+
+#~ msgid "None if empty."
+#~ msgstr "Keine Überschrift wenn leer."
+
+#~ msgid "Post Style"
+#~ msgstr "Beitrags-Layout"
+
+#~ msgid "Masonry"
+#~ msgstr "Kacheln"
+
+#~ msgid "List"
+#~ msgstr "Liste"
+
+#~ msgid "Amount of posts in a row.<br>Default is <code>3</code>, max <code>4</code>"
+#~ msgstr "Anzahl der Beiträge pro Zeile.<br>Standardwert: <code>3</code>, max <code>4</code>"
+
+#~ msgid "Default is <code>9</code>"
+#~ msgstr "Standardwert: <code>9</code>"
+
+#~ msgid "Show Excerpts"
+#~ msgstr "Zeige die Auszüge"
+
+#~ msgid "Show excerpts in post grid."
+#~ msgstr "Zeige die Auszüge im Post Grid."
+
+#~ msgid "Show Sidebar"
+#~ msgstr "Seitenleiste anzeigen"
+
+#~ msgid "Show sidebar next to post grid."
+#~ msgstr "Zeige die Seitenleiste neben dem Post Grid."
+
+#~ msgid "Show Pagination"
+#~ msgstr "Pagination anzeigen"
+
+#~ msgid "Show pagination below post grid."
+#~ msgstr "Pagination unter Post Grid anzeigen."
+
+#~ msgid "Button"
+#~ msgstr "Button"
+
+#~ msgid "Button Label"
+#~ msgstr "Button Beschriftung"
+
+#~ msgid "Text on the button."
+#~ msgstr "Text auf dem Button"
+
+#~ msgid "Label in UPPERCASE"
+#~ msgstr "Beschriftung in GROßBUCHSTABEN"
+
+#~ msgid "Link to"
+#~ msgstr "Link zu"
+
+#~ msgid "Internal Page"
+#~ msgstr "Interne Seite"
+
+#~ msgid "Internal Post"
+#~ msgstr "Interner Beitrag"
+
+#~ msgid "External URL"
+#~ msgstr "Externe URL"
+
+#~ msgid "Choose Page"
+#~ msgstr "Seite wählen"
+
+#~ msgid "Choose Post"
+#~ msgstr "Beitrag wählen"
+
+#~ msgid "Enter URL"
+#~ msgstr "URL eintragen"
+
+#~ msgid "Do not forget <code>http://</code>"
+#~ msgstr "Das <code>http://</code> nicht vergessen"
+
+#~ msgid "Button Size"
+#~ msgstr "Button Größe"
+
+#~ msgid "Small"
+#~ msgstr "Klein"
+
+#~ msgid "Normal (Default)"
+#~ msgstr "Normal (Standard)"
+
+#~ msgid "Large"
+#~ msgstr "Groß"
+
+#~ msgid "Button Alignment"
+#~ msgstr "Button Ausrichtung"
+
+#~ msgid "Left"
+#~ msgstr "Linksbündig"
+
+#~ msgid "Center (Default)"
+#~ msgstr "Zentriert (Standard)"
+
+#~ msgid "Button Class"
+#~ msgstr "Button Klasse"
+
+#~ msgid "Additional CSS classes."
+#~ msgstr "Eigene CSS Klasse."
+
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgid "Including brackets. For example:<br><br><code>[footag foo=\"bar\"]</code><br><br><code>[bartag]foo[/bartag]</code>"
+#~ msgstr "Einschließlich der Klammern. Zum Beispiel<br><br><code>[footag foo=\"bar\"]</code><br><br><code>[bartag]foo[/bartag]</code>"
+
+#~ msgid "Sidebar Start"
+#~ msgstr "Seitenleiste Start"
+
+#~ msgid "Notice"
+#~ msgstr "Achtung"
+
+#~ msgid "<strong style=\"padding: 8px 16px; border: 1px solid #ddd; border-left: 4px solid #ffba00;\">Do not forget to add the <code>Sidebar End</code> block below!</strong>"
+#~ msgstr "<strong style=\"padding: 8px 16px; border: 1px solid #ddd; border-left: 4px solid #ffba00;\">Vergiss nicht unterhalb den <code>Seitenleiste Ende</code> Block hinzuzufügen!</strong>"
+
+#~ msgid "Sidebar"
+#~ msgstr "Seitenleiste"
+
+#~ msgid "Enable or Disable Sidebar"
+#~ msgstr "Seitenleiste aktivieren oder deaktivieren"
+
+#~ msgid "Enable (Default)"
+#~ msgstr "Aktivieren (Standard)"
+
+#~ msgid "Disable"
+#~ msgstr "Deaktivieren"
+
+#~ msgid "Select a Sidebar"
+#~ msgstr "Eine Seitenleiste auswählen"
+
+#~ msgid "Sidebar End"
+#~ msgstr "Seitenleiste Ende"
+
+#~ msgid "<strong style=\"padding: 8px 16px; border: 1px solid #ddd; border-left: 4px solid #ffba00;\">Do not forget to add the <code>Sidebar Start</code> block above!</strong>"
+#~ msgstr "<strong style=\"padding: 8px 16px; border: 1px solid #ddd; border-left: 4px solid #ffba00;\">Vergiss nicht oberhalb den <code>Seitenleiste Start</code> Block hinzuzufügen!</strong>"
+
+#~ msgctxt "Custom Text Widget"
+#~ msgid "Genau wie das Wordpress \"Text\" Widget, nur mit einem Custom Title Tag."
+#~ msgstr "Genau wie das Wordpress \"Text\" Widget, nur mit einem Custom Title Tag."
+
+#~ msgctxt "Custom Text Widget"
+#~ msgid "Custom Text Widget"
+#~ msgstr "Custom Text Widget"
+
+#~ msgctxt "Custom Text Widget"
+#~ msgid "Title-Tag Homepage:"
+#~ msgstr "Title-Tag Homepage:"
+
+#~ msgctxt "Custom Text Widget"
+#~ msgid "Default"
+#~ msgstr "Standardwert"
+
+#~ msgctxt "Custom Text Widget"
+#~ msgid "Title-Tag:"
+#~ msgstr "Title-Tag:"
+
+#~ msgid "Title:"
+#~ msgstr "Titel:"
+
+#~ msgid "Content:"
+#~ msgstr "Inhalt:"
+
+#~ msgid "Automatically add paragraphs"
+#~ msgstr "Automatisches Hinzufügen von Absätzen"
+
+#~ msgctxt "Breadcrumbs"
+#~ msgid "Home"
+#~ msgstr "Home"
+
+#~ msgctxt "Breadcrumbs"
+#~ msgid "Category-Archive for %s"
+#~ msgstr "Kategorie-Archiv für %s"
+
+#~ msgctxt "Breadcrumbs"
+#~ msgid "Tag-Archive for %s"
+#~ msgstr "Schlagwort-Archiv für %s"
+
+#~ msgctxt "Breadcrumbs"
+#~ msgid "Posts by %s"
+#~ msgstr "Beitrag von %s"
+
+#~ msgctxt "Breadcrumbs"
+#~ msgid "Search results for %s"
+#~ msgstr "Suchergebnisse für %s"
+
+#~ msgctxt "Breadcrumbs"
+#~ msgid "Blog"
+#~ msgstr "Blog"
+
+#~ msgctxt "Breadcrumbs"
+#~ msgid "Page"
+#~ msgstr "Seite"
+
+#~ msgid "Genau wie das Wordpress \"Text\" Widget, nur ist der Titel immer H1."
+#~ msgstr "Genau wie das Wordpress \"Text\" Widget, nur ist der Titel immer H1."
+
+#~ msgid "H1 Text"
+#~ msgstr "H1 Text"
+
+#~ msgctxt "Editors Page"
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgctxt "Editors Page"
+#~ msgid "Website"
+#~ msgstr "Webseite"
+
+#~ msgctxt "Editors Page"
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgctxt "Editors Page"
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgctxt "Editors Page"
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgctxt "Extra Profile Info"
+#~ msgid "Please enter your job position. (For example Editor in Chief)"
+#~ msgstr "Bitte trage deine Berufsbezeichnung ein (Zum Beispiel Chefredakteur)."
+
+#~ msgctxt ""
+#~ msgid "Editors Page"
+#~ msgstr "Seite der Redaktion"
+
+#~ msgctxt ""
+#~ msgid "Visibility on Editors Page"
+#~ msgstr "Sichtbarkeit auf Redakteure Seite"
+
+#~ msgctxt ""
+#~ msgid "Show on Editors Page"
+#~ msgstr "Auf Redakteure Seite anzeigen"
+
+#~ msgctxt ""
+#~ msgid "Job Position"
+#~ msgstr "Berufsbezeichnung"
+
+#~ msgctxt ""
+#~ msgid "Please enter your job position."
+#~ msgstr "Bitte trage deine Berufsbezeichnung ein"
+
+#~ msgctxt "Comment Section"
+#~ msgid "No comments yet"
+#~ msgstr "Keine Kommentare bis jetzt."
+
+#~ msgctxt "Comment Section"
+#~ msgid "Log in."
+#~ msgstr "Anmelden"
+
+#~ msgctxt "Comment Section"
+#~ msgid "Mail (will not be published)"
+#~ msgstr "Email (wird nicht öffentlich angezeigt)"
+
+#~ msgctxt "Comment Section"
+#~ msgid "Comment"
+#~ msgstr "Kommentar"
+
+#~ msgctxt "Comment Section"
+#~ msgid "Trackback"
+#~ msgstr "Trackback"
+
+#~ msgctxt "Comment Section"
+#~ msgid "Pingback"
+#~ msgstr "Pingback"
+
+#~ msgctxt "Comment Section"
+#~ msgid "%1$s by %2$s on %3$s at %4$s"
+#~ msgstr "%1$s von %2$s am %3$s um %4$s"
+
+#~ msgctxt "Breadcrumbs"
+#~ msgid "Category-Archive for"
+#~ msgstr "Kategorie-Archiv für"
+
+#~ msgctxt "Breadcrumbs"
+#~ msgid "Tag-Archive for"
+#~ msgstr "Schlagwort-Archive für"
+
+#~ msgctxt "Breadcrumbs"
+#~ msgid "Posts by"
+#~ msgstr "Beiträge von"
+
+#~ msgctxt "Settings checkbox description"
+#~ msgid "Show content meta info below content of posts and pages."
+#~ msgstr "Content Meta Infos unter dem Content anzeigen"
+
+#~ msgctxt "Register sidebar name"
+#~ msgid "Footer Widget Area (1/2 Left)"
+#~ msgstr "Footer Widget Bereich (1/2 links)"
+
+#~ msgctxt "Register sidebar name"
+#~ msgid "Footer Widget Area (1/2 Right)"
+#~ msgstr "Footer Widget Bereich (1/2 rechts)"
+
+#~ msgctxt "Register sidebar name"
+#~ msgid "Footer Widget Area (1/3 Left)"
+#~ msgstr "Footer Widget Bereich (1/3 links)"
+
+#~ msgctxt "Register sidebar name"
+#~ msgid "Footer Widget Area (1/3 Center)"
+#~ msgstr "Footer Widget Bereich (1/3 zentriert)"
+
+#~ msgctxt "Register sidebar name"
+#~ msgid "Footer Widget Area (1/3 Right)"
+#~ msgstr "Footer Widget Bereich (1/3 rechts)"
+
+#~ msgid "Choose a related post"
+#~ msgstr "Wähle einen themenverwandten Beitrag"
+
+#~ msgid "Please copy the Video-URL (for example %s) from the browser address bar and paste it in the search field below. The Video will appear under the search field. This does work with Youtube and Vimeo URLs."
+#~ msgstr "Bitte kopiere die Videoadresse (zum Beispiel %s) von der Browser-Addressleiste and füge sie in das Suchfeld unterhalb ein. Das Video erscheint dann unter dem Suchfeld. Das funktioniert mit Youtube und Vimeo Videoadressen."
+
+#~ msgid "Default is %s, max "
+#~ msgstr "Standardwert: %s, max"
+
+#~ msgid "Height of the Block in px."
+#~ msgstr "Höhe des Blocks in px."
+
+#~ msgid "Default is"
+#~ msgstr "Standardwert:"
+
+#~ msgid "Amount of posts in a row."
+#~ msgstr "Anzahl der Beiträge in einer Zeile."
+
+#~ msgid "Do not forget %s"
+#~ msgstr "Das %s nicht vergessen"
+
+#~ msgid "Including brackets. For example"
+#~ msgstr "Einschließlich der Klammern. Zum Beispiel"
+
+#~ msgid "Don't forget to add the %s block below!"
+#~ msgstr "Vergiss nicht unterhalb den %s Block hinzuzufügen!"
+
+#~ msgid "Don't forget to add the %s block above!"
+#~ msgstr "Vergiss nicht oberhalb den %s Block hinzuzufügen!"
+
+#~ msgid "Default is %1$s, max %2$s"
+#~ msgstr "Standardwert: %1$s, max %2$s"
+
+#~ msgctxt "ACF Video Embed"
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#~ msgctxt "ACF Video Embed"
+#~ msgid "Embedded Video"
+#~ msgstr "Eingebettetes Video"
+
+#~ msgctxt "ACF Video Embed"
+#~ msgid "Please copy the Video-URL (for example %s) from the browser address bar and paste it in the search field below. The Video will appear under the search field. This does work with Youtube and Vimeo URLs."
+#~ msgstr "Bitte kopiere die Videoadresse (zum Beispiel %s) von der Browser-Addressleiste and füge sie in das Suchfeld unterhalb ein. Das Video erscheint dann unter dem Suchfeld. Das funktioniert mit Youtube und Vimeo Videoadressen."
+
+#~ msgctxt "ACF Gallery"
+#~ msgid "Gallery"
+#~ msgstr "Galerie"
+
+#~ msgctxt "ACF Gallery"
+#~ msgid "Images"
+#~ msgstr "Bilder"
+
+#~ msgctxt "ACF Related Post"
+#~ msgid "Related Post"
+#~ msgstr "Ähnlicher Beitrag"
+
+#~ msgctxt "ACF Related Post"
+#~ msgid "Choose a related post"
+#~ msgstr "Wähle einen themenverwandten Beitrag"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Page Builder"
+#~ msgstr "Page Builder"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Blocks"
+#~ msgstr "Blöcke"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Add Block"
+#~ msgstr "Block hinzufügen"
+
+#~ msgctxt "ACF Page Builder - Headline"
+#~ msgid "Headline"
+#~ msgstr "Überschrift"
+
+#~ msgctxt "ACF Page Builder - Headline"
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgctxt "ACF Page Builder - Headline"
+#~ msgid "Headline is H1"
+#~ msgstr "Headline ist H1"
+
+#~ msgctxt "ACF Page Builder - Content Editor"
+#~ msgid "Content-Editor"
+#~ msgstr "Content-Editor"
+
+#~ msgctxt "ACF Page Builder - Content Editor"
+#~ msgid "Columns"
+#~ msgstr "Spalten"
+
+#~ msgctxt "ACF Page Builder - Content Editor"
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Hero Post Module"
+#~ msgstr "Hero Beitragsmodul"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Post Source"
+#~ msgstr "Beitragsquelle"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Latest Posts"
+#~ msgstr "Neuste Beiträge"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Sticky Posts only"
+#~ msgstr "Sticky Beiträge"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Latest Posts by Post Format"
+#~ msgstr "Neueste Beiträge dieses Beitragstypen"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Post Formats"
+#~ msgstr "Beitragsformate"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Gallery"
+#~ msgstr "Bildergalerie"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Image"
+#~ msgstr "Einzelbild"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Category"
+#~ msgstr "Kategorie"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Affects every Post Source."
+#~ msgstr "Betrifft alle Beitragsquellen."
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Tags"
+#~ msgstr "Schlagwörter"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Number of Posts"
+#~ msgstr "Anzahl der Beiträge"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Default is"
+#~ msgstr "Standardwert:"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Offset"
+#~ msgstr "Offset"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Offset for Number of posts"
+#~ msgstr "Offset für Anzahl der Beiträge"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Height"
+#~ msgstr "Höhe"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Height of the Block in px."
+#~ msgstr "Höhe des Blocks in px."
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Global Exclude"
+#~ msgstr "Global exkludieren"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Exclude hero module posts from all other blocks on this page."
+#~ msgstr "Hero Modul Beiträge von allen anderen Blöcken auf dieser Seite exkludieren."
+
+#~ msgctxt "ACF Page Builder - Scope"
+#~ msgid "Scope"
+#~ msgstr "Scope"
+
+#~ msgctxt "ACF Page Builder - Scope"
+#~ msgid "Where should this block appear?"
+#~ msgstr "Wo soll dieser Block angezeigt werden?"
+
+#~ msgctxt "ACF Page Builder - Scope"
+#~ msgid "Everywhere (Default)"
+#~ msgstr "Überall (Standard)"
+
+#~ msgctxt "ACF Page Builder - Scope"
+#~ msgid "Only on Desktop"
+#~ msgstr "Nur auf Desktop"
+
+#~ msgctxt "ACF Page Builder - Scope"
+#~ msgid "Only on Mobile"
+#~ msgstr "Nur auf Mobil"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Post Grid Module"
+#~ msgstr "Post Grid Modul"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Headline"
+#~ msgstr "Überschrift"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "None if empty."
+#~ msgstr "Keine Überschrift wenn leer."
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Headline is H1"
+#~ msgstr "Headline ist H1"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Post Source"
+#~ msgstr "Beitragsquelle"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Latest Posts"
+#~ msgstr "Neuste Beiträge"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Sticky Posts only"
+#~ msgstr "Sticky Beiträge"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Latest Posts by Post Format"
+#~ msgstr "Neueste Beiträge dieses Beitragstypen"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Post Formats"
+#~ msgstr "Beitragsformate"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Gallery"
+#~ msgstr "Bildergalerie"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Image"
+#~ msgstr "Einzelbild"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Category"
+#~ msgstr "Kategorie"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Affects every Post Source."
+#~ msgstr "Betrifft alle Beitragsquellen."
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Tags"
+#~ msgstr "Schlagwörter"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Post Style"
+#~ msgstr "Beitrags-Layout"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Masonry"
+#~ msgstr "Kacheln"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "List"
+#~ msgstr "Liste"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Columns"
+#~ msgstr "Spalten"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Amount of posts in a row."
+#~ msgstr "Anzahl der Beiträge in einer Zeile."
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Default is"
+#~ msgstr "Standardwert:"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Number of Posts"
+#~ msgstr "Anzahl der Beiträge"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Offset"
+#~ msgstr "Offset"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Offset for Number of posts"
+#~ msgstr "Offset für Anzahl der Beiträge"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Show Excerpts"
+#~ msgstr "Zeige die Auszüge"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Show excerpts in post grid."
+#~ msgstr "Zeige die Auszüge im Post Grid."
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Show Sidebar"
+#~ msgstr "Sidebar anzeigen"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Show sidebar next to post grid."
+#~ msgstr "Zeige die Sidebar neben dem Post Grid."
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Show Pagination"
+#~ msgstr "Pagination anzeigen"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Show pagination below post grid."
+#~ msgstr "Pagination unter Post Grid anzeigen."
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Button"
+#~ msgstr "Button"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Button Label"
+#~ msgstr "Button Beschriftung"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Text on the button."
+#~ msgstr "Text auf dem Button"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Label in UPPERCASE"
+#~ msgstr "Beschriftung in GROßBUCHSTABEN"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Link to"
+#~ msgstr "Link zu"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Internal Page"
+#~ msgstr "Interne Seite"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Internal Post"
+#~ msgstr "Interner Beitrag"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "External URL"
+#~ msgstr "Externe URL"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Choose Page"
+#~ msgstr "Seite wählen"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Choose Post"
+#~ msgstr "Beitrag wählen"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Enter URL"
+#~ msgstr "URL eintragen"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Do not forget %s"
+#~ msgstr "Das %s nicht vergessen"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Button Size"
+#~ msgstr "Button Größe"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Small"
+#~ msgstr "Klein"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Normal (Default)"
+#~ msgstr "Normal (Standard)"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Large"
+#~ msgstr "Groß"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Button Alignment"
+#~ msgstr "Button Ausrichtung"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Left"
+#~ msgstr "Linksbündig"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Center (Default)"
+#~ msgstr "Zentriert (Standard)"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Right"
+#~ msgstr "Rechtsbündig"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Button Class"
+#~ msgstr "Button Klasse"
+
+#~ msgctxt "ACF Page Builder - Button Module"
+#~ msgid "Additional CSS classes."
+#~ msgstr "Eigene CSS Klasse."
+
+#~ msgctxt "ACF Page Builder - Shortcode Module"
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgctxt "ACF Page Builder - Shortcode Module"
+#~ msgid "Including brackets. For example"
+#~ msgstr "Einschließlich der Klammern. Zum Beispiel"
+
+#~ msgctxt "ACF Page Builder - Sidebar"
+#~ msgid "Sidebar Start"
+#~ msgstr "Sidebar Start"
+
+#~ msgctxt "ACF Page Builder - Sidebar"
+#~ msgid "Notice"
+#~ msgstr "Achtung"
+
+#~ msgctxt "ACF Page Builder - Sidebar"
+#~ msgid "Don't forget to add the %s block below!"
+#~ msgstr "Vergiss nicht unterhalb den %s Block hinzuzufügen!"
+
+#~ msgctxt "ACF Page Builder - Sidebar"
+#~ msgid "Sidebar End"
+#~ msgstr "Sidebar Ende"
+
+#~ msgctxt "ACF Page Builder - Sidebar"
+#~ msgid "Sidebar"
+#~ msgstr "Sidebar"
+
+#~ msgctxt "ACF Page Builder - Sidebar"
+#~ msgid "Enable or Disable Sidebar"
+#~ msgstr "Sidebar aktivieren oder deaktivieren"
+
+#~ msgctxt "ACF Page Builder - Sidebar"
+#~ msgid "Enable (Default)"
+#~ msgstr "Aktivieren (Standard)"
+
+#~ msgctxt "ACF Page Builder - Sidebar"
+#~ msgid "Disable"
+#~ msgstr "Deaktivieren"
+
+#~ msgctxt "ACF Page Builder - Sidebar"
+#~ msgid "Select a Sidebar"
+#~ msgstr "Eine Sidebar auswählen"
+
+#~ msgctxt "ACF Page Builder - Sidebar"
+#~ msgid "Don't forget to add the %s block above!"
+#~ msgstr "Vergiss nicht oberhalb den %s Block hinzuzufügen!"
+
+#~ msgctxt "Archive page"
+#~ msgid "Read now"
+#~ msgstr "Jetzt lesen"
+
+#~ msgctxt "ACF Gallery"
+#~ msgid "Gallery of Images"
+#~ msgstr "Bildergalerie"
+
+#~ msgctxt "ACF Related Post"
+#~ msgid "Choose The Related Post"
+#~ msgstr "Wähle einen themenverwandten Beitrag"
+
+#~ msgctxt "Content related posts"
+#~ msgid "Related posts"
+#~ msgstr "Ähnliche Beiträge"
+
+#~ msgctxt "ACF Page Builder - Scope"
+#~ msgid "Everywhere"
+#~ msgstr "Überall"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Internal Page"
+#~ msgstr "Interne Seite"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Internal Post"
+#~ msgstr "Interner Beitrag"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "External URL"
+#~ msgstr "Externe URL"
+
+#~ msgctxt "ACF Page Builder - Headline"
+#~ msgid "Button"
+#~ msgstr "Button"
+
+#~ msgctxt "ACF Page Builder - Headline"
+#~ msgid "Button Label"
+#~ msgstr "Button Beschriftung"
+
+#~ msgctxt "ACF Page Builder - Headline"
+#~ msgid "Text on the button."
+#~ msgstr "Text auf dem Button"
+
+#~ msgctxt "ACF Page Builder - Headline"
+#~ msgid "Label in UPPERCASE"
+#~ msgstr "Beschriftung in GROßBUCHSTABEN"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Link to"
+#~ msgstr "Link zu"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Choose Page"
+#~ msgstr "Seite wählen"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Choose Post"
+#~ msgstr "Beitrag wählen"
+
+#~ msgctxt "ACF Page Builder - Headline"
+#~ msgid "Enter URL"
+#~ msgstr "URL eintragen"
+
+#~ msgctxt "ACF Page Builder - Headline"
+#~ msgid "Do not forget %s"
+#~ msgstr "Das %s nicht vergessen"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Button Size"
+#~ msgstr "Button Größe"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Small"
+#~ msgstr "Klein"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Normal (Default)"
+#~ msgstr "Normal"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Large"
+#~ msgstr "Groß"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Button Alignment"
+#~ msgstr "Button Ausrichtung"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Left"
+#~ msgstr "Linksbündig"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Center (Default)"
+#~ msgstr "Zentriert (Standard)"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Right"
+#~ msgstr "Rechtsbündig"
+
+#~ msgctxt "ACF Page Builder - Headline"
+#~ msgid "Button Class"
+#~ msgstr "Button Klasse"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Additional CSS classes."
+#~ msgstr "Eigene CSS Klasse."
+
+#~ msgctxt "ACF Page Builder - Headline"
+#~ msgid "None if empty."
+#~ msgstr "Keine Überschrift wenn leer."
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Including brackets. For example"
+#~ msgstr "Einschließlich der Klammern. Zum Beispiel"
+
+#~ msgctxt "ACF Page Builder - Content Editor"
+#~ msgid "Editor"
+#~ msgstr "Editor"
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Comma separated list."
+#~ msgstr "Kommagetrennte Liste der Tags."
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Comma separated list."
+#~ msgstr "Kommagetrennte Liste der Tags."
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Offset for \"Number of posts\""
+#~ msgstr "Offset für \"Anzahl der Beiträge\""
+
+#~ msgctxt "ACF Page Builder - Post Grid Module"
+#~ msgid "Offset for \"Number of posts\""
+#~ msgstr "Offset für \"Anzahl der Beiträge\""
+
+#~ msgctxt "ACF Page Builder - Hero Post Module"
+#~ msgid "Hero Posts Module"
+#~ msgstr "Hero Beitragsmodul"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Headline"
+#~ msgstr "Headline"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Headline is H1"
+#~ msgstr "Headline ist H1"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Content-Editor"
+#~ msgstr "Content-Editor"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Editor"
+#~ msgstr "Editor"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Hero Posts Module"
+#~ msgstr "Hero Beitragsmodul"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Post Source"
+#~ msgstr "Beitragsquelle"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Latest Posts"
+#~ msgstr "Neuste Beiträge"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Sticky Posts only"
+#~ msgstr "Sticky Beiträge"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Latest Posts by Post Format"
+#~ msgstr "Neueste Beiträge dieses Beitragstypen"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Category"
+#~ msgstr "Kategorie"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Affects every Post Source."
+#~ msgstr "Betrifft alle Beitragsquellen."
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Comma separated list."
+#~ msgstr "Kommagetrennte Liste der Tags."
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Post Formats"
+#~ msgstr "Beitragsformate"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Gallery"
+#~ msgstr "Bildergalerie"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Image"
+#~ msgstr "Einzelbild"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Number of Posts"
+#~ msgstr "Anzahl der Beiträge"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Default is"
+#~ msgstr "Standardwert:"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Offset"
+#~ msgstr "Offset"
+
+#~ msgctxt "ACF Page Builder"
+#~ msgid "Offset for \"Number of posts\""
+#~ msgstr "Offset für \"Anzahl der Beiträge\""
