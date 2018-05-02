@@ -175,8 +175,8 @@ if(!class_exists('AdminOptions'))
      */
     static function define_default_settings(){
       $options = array();
-      foreach(self::$fields as $slug => $options){
-        $options[$slug] = (isset($options['default']) && !empty($options['default'])) ? $options['default'] : '';
+      foreach(self::$fields as $field_slug => $field_options){
+        $options[$field_slug] = (isset($field_options['default']) && !empty($field_options['default'])) ? $field_options['default'] : '';
       }
       return $options;
     }
