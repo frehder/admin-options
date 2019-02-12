@@ -2,14 +2,14 @@
 /**
  * Plugin Name: Admin Options
  * Description: Admin Options Page Plugin for Wordpress
- * Version: 1.1
+ * Version: 1.2
  * Author: Florian Rehder <code@florianrehder.de>
  * Text Domain: admin_options
  *
  * @author     Florian Rehder <code@florianrehder.de>
  * @copyright  2017 Florian Rehder
  * @license    MIT
- * @version    1.0
+ * @version    1.2
  */
 
 namespace AdminOptionsPlugin;

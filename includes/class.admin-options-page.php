@@ -293,6 +293,7 @@ if(!class_exists('AdminOptions'))
               break;
 
             case 'textarea':
+            case 'wp_editor':
               $valid_input[$slug] = wp_kses($input[$slug], $allowedposttags);
               break;
 
@@ -493,6 +494,41 @@ if(!class_exists('AdminOptions'))
 
 
     /**
+     * Echo textarea settings field.
+     *
+     * string $args['option_slug']  Slug of setting option. Required.<br>
+     * string $args['description']  Description below the editor. Optional.<br>
+     * int    $args['rows']         Height of editor. Optional.
+     *
+     * @param array $args  Arguments to set the parameter of the textarea element.
+     * @return string  HTML string of the textarea field element.
+     * @since 1.2
+     */
+    static function display_setting_field__wp_editor($args){
+      if(!empty($args['option_slug']))
+      {
+        $wp_editor_default_content = (empty(self::$db_options[$args['option_slug']])) ? '' : self::$db_options[$args['option_slug']];
+        $wp_editor_unique_id       = 'theme_setting_wp_editor_'.$args['option_slug'];
+        $wp_editor_settings        = array(
+          'media_buttons' => false,
+          'textarea_name' => self::$db_options_name.'['.$args['option_slug'].']',
+          'textarea_rows' => (isset($args['rows']) && !empty($args['rows']) && is_numeric($args['rows'])) ? $args['rows'] : 18,
+          'quicktags'     => array('buttons' => 'strong,em,del,ul,ol,li,close'),
+        );
+
+        wp_editor($wp_editor_default_content, $wp_editor_unique_id, $wp_editor_settings);
+
+        if(!empty($args['description'])) {
+          $html = "\n".'<div id="theme_setting_'.$args['option_slug'].'">';
+          $html .= "\n".'<p class="description">'.$args['description'].'</p>';
+          $html .= "\n".'</div>';
+          echo $html;
+        }
+      }
+    }
+
+
+    /**
      * Create admin page form fields.
      *
      * @return void
@@ -511,7 +547,7 @@ if(!class_exists('AdminOptions'))
         foreach($values['fields'] as $field_slug => $options){
           $field_options = array('option_slug' => $field_slug);
           $field_title   = (isset($options['title']) && !empty($options['title'])) ? $options['title'] : '';
-          $field_types   = array('input', 'checkbox', 'radio', 'select', 'dropdown', 'textarea');
+          $field_types   = array('input', 'checkbox', 'radio', 'select', 'dropdown', 'textarea', 'wp_editor');
           $field_type    = (isset($options['type']) && in_array($options['type'], $field_types)) ? $options['type'] : 'input';
 
           if(isset($options['options']) && is_array($options['options'])){

@@ -81,6 +81,16 @@ if(!function_exists(__NAMESPACE__.'\admin_options_page_setup')){
           )
         ),
 
+        'wordpress_tinymce_editor' => array(
+          'default' => '',
+          'title'   => _x('Your Story', 'Admin Options', 'admin_options'),
+          'type'    => 'wp_editor',
+          'options' => array(
+            'rows'        => 25,
+            'description' => _x('Description of the wp editor', 'Admin Options', 'admin_options'),
+          )
+        ),
+
       )
     );
 

@@ -32,7 +32,7 @@ if(!function_exists('admin_options_page_setup')){
         'field_slug' => array(
           'default' => 'Default Value',
           'title'   => 'Field Title',
-          'type'    => 'field_type', // (input|checkbox|radio|dropdown)
+          'type'    => 'field_type', // (input|checkbox|radio|dropdown|textarea|wp_editor)
           'options' => array( // Field Options (depends on type)
 
             // Type dropdown
@@ -54,6 +54,19 @@ if(!function_exists('admin_options_page_setup')){
             'option' => array(
               'option_1_key' => 'Option 1 Label',
               'option_2_key' => 'Option 2 Label'
+            ),
+
+            // Type textarea
+            'options' => array(
+              'description' => 'Description of the Textarea Field',
+              'cols'        => 50,
+              'rows'        => 5,
+            ),
+
+            // Type wp_editor
+            'options' => array(
+              'rows'        => 25,
+              'description' => 'Description below the Editor',
             ),
 
           )
